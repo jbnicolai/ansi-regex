@@ -2,8 +2,7 @@
 
 > Regular expression for matching [ANSI escape codes](http://en.wikipedia.org/wiki/ANSI_escape_code)
 
-
-## Install
+## Installksfjsd
 
 ```
 $ npm install --save ansi-regex
